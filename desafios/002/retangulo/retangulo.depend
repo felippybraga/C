@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742999800 source:c:\users\noobc\onedrive\documentos\cursos\c\desafios\002\retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
